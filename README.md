@@ -1,3 +1,3 @@
-![Socket_Paint](https://user-images.githubusercontent.com/66319306/118435325-bf828700-b719-11eb-98d5-69ee87bc07f6.jpg)
+![Socket_Paint](https://user-images.githubusercontent.com/66319306/118435401-e04adc80-b719-11eb-82aa-18bcd831e892.jpg)
 # Cpp Paint
 Practice
