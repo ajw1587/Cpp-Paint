@@ -1,2 +1,2 @@
-# CatchMind
+# Cpp Paint
 Practice
